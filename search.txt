@@ -1,0 +1,7 @@
+$nomention
+$cooldown[3s;Please wait before using this command again.]
+$message[This command has been done in $serverNames]
+$title[**⚠️ Recommend Using <@1335358449311027274> to get ids! ⚠️ **]
+Cosmetic ID: $message
+$image[https://fortnite-api.com/images/cosmetics/br/$message/icon.png]
+
