@@ -1,0 +1,5 @@
+$nomention
+https://fortnite-api.com/images/cosmetics/br/$message/variants/material/stage1.png
+https://fortnite-api.com/images/cosmetics/br/$message/variants/material/stage2.png
+https://fortnite-api.com/images/cosmetics/br/$message/variants/material/stage3.png
+https://fortnite-api.com/images/cosmetics/br/$message/variants/material/stage4.png
