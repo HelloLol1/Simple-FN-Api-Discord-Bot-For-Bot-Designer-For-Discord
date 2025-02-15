@@ -1,0 +1,3 @@
+$nomention
+$title[Current Fortnite Map]
+$image[https://fortnite-api.com/images/map.png]
