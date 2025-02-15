@@ -1,0 +1,4 @@
+$nomention
+$image[https://static.wikia.nocookie.net/fortnite/images/6/6f/GG_Smiley_%28Decal%29_-_Spray_-_Fortnite.png/revision/latest?cb=20210906161554]
+$title[Fortnite.GG Results for $message have been generated.]
+$description[https://fortnite.gg/assets?search=$message]
